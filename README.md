@@ -1,6 +1,6 @@
 # Wordlist-Generator
 
-çalışma mantığı crunch gibi -h parametresi ile diğer parametrelere bakabilirsiniz
+Çalışma mantığı crunch gibi -h parametresi ile diğer parametrelere bakabilirsiniz
 
 [EN]
 
